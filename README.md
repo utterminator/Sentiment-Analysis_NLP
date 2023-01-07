@@ -11,3 +11,18 @@ considered useful, only some restaurants use customer
 satisfaction analysis to improve their services. Also, many
 algorithms might be used for doing the study
 in this project sentiment analysis of the customers is done.
+
+## stpes involved
+Data preprocessing includes:
+
+trim lowercase
+
+remove punctuation
+
+stopwords removal
+
+Classification process using logistic regression
+
+Results obtained 
+
+Confusion matrix
