@@ -21,7 +21,7 @@ remove punctuation
 
 stopwords removal
 
-Classification process using logistic regression
+Classification process using logistic regression and naive bayes
 
 Results obtained 
 
